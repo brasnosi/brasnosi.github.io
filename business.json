@@ -1,0 +1,47 @@
+{
+  "name": "brasno.si",
+  "url": "https://brasno.si",
+  "location": {
+    "city": "Ljubljana",
+    "postalCode": "1000",
+    "country": "SI"
+  },
+  "contact": "moje@brasno.si",
+  "focus": "Flour for bakeries that put quality first.",
+  "description": "Flour for professional bakeries. Choose by specification, test it in your own production and agree on quality, traceability and regular supply. Ljubljana, Slovenia.",
+  "qualityApproach": [
+    {
+      "title": "Before you agree on a product",
+      "description": "Review the technical sheet, declared allergens, intended use, packaging and storage instructions. Request relevant analysis where available. Start with the products you bake. Compare the specification and test the flour with your own recipe and equipment."
+    },
+    {
+      "title": "When the flour is delivered",
+      "description": "Check product identity, quantity, packaging condition and batch details against the delivery documents. Record any discrepancy at receipt."
+    },
+    {
+      "title": "If a product changes",
+      "description": "A different mill or a similar type number does not automatically mean the same baking behaviour. Review the specification and agree the substitution first."
+    }
+  ],
+  "qualityUrl": "https://brasno.si/en/quality-and-traceability/",
+  "marketEnquiries": [
+    "SI",
+    "AT",
+    "DE"
+  ],
+  "languages": [
+    "cs",
+    "de",
+    "en",
+    "hr",
+    "hu",
+    "it",
+    "pl",
+    "sk",
+    "sl",
+    "sq",
+    "sr"
+  ],
+  "ordering": "Non-binding enquiry; product specifications and delivery confirmed individually",
+  "enquiryUrl": "https://brasno.si/en/enquiry/"
+}
